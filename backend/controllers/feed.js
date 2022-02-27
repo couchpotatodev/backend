@@ -18,7 +18,7 @@ exports.getPosts = (req, res, next) => {
     },
      "githubLink": {
        "text":"Check out my github",
-       "link":"i am link"
+       "link":"i am github link"
       }
    })
 };
